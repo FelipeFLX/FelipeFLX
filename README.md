@@ -15,14 +15,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFLX&size_weight=0.5&count_weight=0.5&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Media
-<div style="display: flex;">
+<div style="display: inline_block;">
 
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipe.frlima@gmail.com)
 </div>
 
 ## OS
 
-<div style="display: flex">
+<div style="display: inline_block">
 
 [![blog](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about?gclid=CjwKCAjwvJyjBhApEiwAWz2nLXNKc4fvgTlq1X8fMG6wgAlMdaWvtv6jKKB-PnIPUsSrHORaOkGT_xoCdQAQAvD_BwE&gclsrc=aw.ds&hl=pt-br)
 
@@ -31,14 +31,14 @@
 
 ## Design
 
-<div style="display: flex">
+<div style="display: inline_block">
 
 [![blog](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/br/products/photoshop/landpa.html?gclid=CjwKCAjwvJyjBhApEiwAWz2nLZiwudJ7BbO0wZkG5h2lu2FOSJqczEXazI_4tg11BOR0kwePrnmUoRoCNWUQAvD_BwE&sdid=KQPOM&mv=search&ef_id=CjwKCAjwvJyjBhApEiwAWz2nLZiwudJ7BbO0wZkG5h2lu2FOSJqczEXazI_4tg11BOR0kwePrnmUoRoCNWUQAvD_BwE:G:s&s_kwcid=AL!3085!3!534509111647!e!!g!!photoshop!188192502!10077842982&gad=1)
 </div>
 
 ## IDE
 
-<div style="display: flex">
+<div style="display: inline_block">
 
 [![blog](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipseide.org/)
 
@@ -48,7 +48,7 @@
 </div>
 
 ## OFFICE
-<div style="display: flex">
+<div style="display: inline_block">
 
 [![blog](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/business/compare-all-microsoft-365-business-products-b?ef_id=_k_CjwKCAjwvJyjBhApEiwAWz2nLTsun0kwrmTKN6rkekuH_XKHjUYR-1Tjr3qzbGllCC2MeGHq23WB6RoC9qQQAvD_BwE_k_&OCID=AIDcmmq9ldqz5w_SEM__k_CjwKCAjwvJyjBhApEiwAWz2nLTsun0kwrmTKN6rkekuH_XKHjUYR-1Tjr3qzbGllCC2MeGHq23WB6RoC9qQQAvD_BwE_k_&gclid=CjwKCAjwvJyjBhApEiwAWz2nLTsun0kwrmTKN6rkekuH_XKHjUYR-1Tjr3qzbGllCC2MeGHq23WB6RoC9qQQAvD_BwE)
 
@@ -59,7 +59,7 @@
 
 ## Web Browser
 
-<div style="display: flex">
+<div style="display: inline_block">
 
 [![blog](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/pt?utm_campaign=%2300%20-%20WW%20-%20Search%20-%20EN%20-%20Branded&gclid=CjwKCAjwvJyjBhApEiwAWz2nLbEodbMttM9K8ScPaADennPV7AGHDsfIRH67xPnb23JSg82rQsXrChoCdN4QAvD_BwE)
 
